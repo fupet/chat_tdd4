@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.org/btamas/frontend_tdd.svg?branch=cashier)](https://travis-ci.org/btamas/frontend_tdd)
+[![Build Status](https://travis-ci.org/fupet/chat_tdd4.svg?)](https://travis-ci.org/fupet/chat_tdd4)
 
 Frontend TDD with mocha
 ============
+
+Chat
+====
